@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <name>张三</name>
+    <telphone>15808098980</telphone>
+  </User>
+  <User>
+    <name>李四</name>
+    <telphone>13808098980</telphone>
+    <telphone>13709829798</telphone>
+    <telphone>15210837652</telphone>
+  </User>
+</Users>

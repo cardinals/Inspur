@@ -1,0 +1,11 @@
+D:\lvy\documents\visual studio 2015\ConsoleApplication1\ConsoleApplication1\bin\Debug\CreateXml.exe.config
+D:\lvy\documents\visual studio 2015\ConsoleApplication1\ConsoleApplication1\bin\Debug\CreateXml.exe
+D:\lvy\documents\visual studio 2015\ConsoleApplication1\ConsoleApplication1\bin\Debug\CreateXml.pdb
+D:\lvy\documents\visual studio 2015\ConsoleApplication1\ConsoleApplication1\obj\Debug\CreateXml.exe
+D:\lvy\documents\visual studio 2015\ConsoleApplication1\ConsoleApplication1\obj\Debug\CreateXml.pdb
+D:\lvy\documents\visual studio 2015\CreateXMl\CreateXml\bin\Debug\CreateXml.exe.config
+D:\lvy\documents\visual studio 2015\CreateXMl\CreateXml\obj\Debug\CreateXml.exe
+D:\lvy\documents\visual studio 2015\CreateXMl\CreateXml\obj\Debug\CreateXml.pdb
+D:\lvy\documents\visual studio 2015\CreateXMl\CreateXml\bin\Debug\CreateXml.exe
+D:\lvy\documents\visual studio 2015\CreateXMl\CreateXml\bin\Debug\CreateXml.pdb
+D:\lvy\documents\visual studio 2015\CreateXMl\CreateXml\obj\Debug\CreateXml.csprojResolveAssemblyReference.cache
